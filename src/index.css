@@ -49,3 +49,25 @@ body {
     margin-left: 20px;
   }
   
+  .logout{
+    color: #333;
+  }
+
+  .login{
+    color:blue;
+  }
+
+  .loginWraper{
+    text-align: right;
+    text-indent: 1em;
+    line-height: 30px;
+  }
+
+  .login,.logout{
+    width: 100px;
+    height: 30px;
+    line-height: 30px;
+    text-align: center;
+    font-size: 15px;
+    font-family: '楷体';
+  }
